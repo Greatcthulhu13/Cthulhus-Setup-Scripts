@@ -7,7 +7,7 @@ sudo emerge --sync
 sudo emerge -avuDN @world
 
 # Install favorite programs from Portage
-sudo emerge -av git lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu
+sudo emerge -av git lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu gimp
 
 sudo emerge --ask app-misc/fastfetch
 
