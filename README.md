@@ -9,7 +9,6 @@ A collection of Linux setup scripts that will install my favourite programs and 
 5. Gentoo
 6. NixOS
 7. openSUSE
-8. macOS
 
 Please note: I primarily use Debain and Red Hat-based distros. Any issues with the others raise an issue and I'll take a look
 
@@ -39,7 +38,7 @@ Please note: I primarily use Debain and Red Hat-based distros. Any issues with t
 16. qbittorrent
 17. nano
 18. Libre Office
-19. Homebrew (macOS Script only)
+20. Gimp
 
 # Ani-cli dependencies
 
