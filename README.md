@@ -10,7 +10,7 @@ A collection of Linux setup scripts that will install my favourite programs and 
 6. NixOS
 7. openSUSE
 
-Please note: I primarily use Debain and Red Hat-based distros. Any issues with the others raise an issue and I'll take a look
+**Please note:** I primarily use Debain and Red Hat-based distros. Any issues with the others raise an issue and I'll take a look
 
 # To Install: 
 
