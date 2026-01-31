@@ -10,7 +10,7 @@ sudo dnf copr enable derisis13/ani-cli
 
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 
-sudo dnf install -y git fastfetch lolcat winehq-stable firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu
+sudo dnf install -y git fastfetch lolcat winehq-stable firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu vlc gimp
 
 # Configure preferences 
 echo "alias ll='ls -alF'" >> ~/.bashrc
