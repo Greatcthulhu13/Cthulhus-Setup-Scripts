@@ -7,7 +7,7 @@ sudo nix-channel --update
 sudo nix-env -u
 
 # Install favorite programs from Nixpkgs
-sudo nix-env -iA git fastfetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu
+sudo nix-env -iA git fastfetch lolcat firefox thunderbird konsole kate audacity speedtest-cli grep sed curl mpv aria2c yt-dlp ffmpeg fzf patch ani-skip timeshift steam lutris vlc kdenlive qbittorrent nano libreoffice mu gimp
 
 nix-shell -p fastfetch
 
